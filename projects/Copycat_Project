@@ -46,9 +46,8 @@
             <h1 class="margin text-center">CopyCat Project</h1>
             <p>Using Css and Html, I made a website page similar to Deltamath.</p>
             <p>Some pics I didn't include due to some difficulties in the project.</p>
-            <a href="#">Here is a link to view the webpage https://copycat-project.antonior1187.repl.co/</a><br>
-            <a href="#">The behind the scene code to make this all happen https://repl.it/@antonior1187/Copycat-Project#index.html</a><br>
-
+            <a href="https://copycat-project.antonior1187.repl.co/">Here is a link to view the webpage.</a><br>
+            <a href="https://repl.it/@antonior1187/Copycat-Project#index.html">The behind the scene code to make this all happen.</a><br>
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a>-->
             <!--EXAMPLE OF GITHUB LINK-->
