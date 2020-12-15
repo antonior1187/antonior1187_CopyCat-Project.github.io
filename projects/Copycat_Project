@@ -43,10 +43,11 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
-            <a href="#">Link about the project</a><br>
+            <h1 class="margin text-center">CopyCat Project</h1>
+            <p>Using Css and Html, I made a website page similar to Deltamath.</p>
+            <p>Some pics I didn't include due to some difficulties in the project.</p>
+            <a href="#">Here is a link to view the webpage https://copycat-project.antonior1187.repl.co/</a><br>
+            <a href="#">The behind the scene code to make this all happen https://repl.it/@antonior1187/Copycat-Project#index.html</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a>-->
