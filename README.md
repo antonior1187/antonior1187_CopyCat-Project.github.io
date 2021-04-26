@@ -1,6 +1,6 @@
 # Portfolio Template
 
-# The [webside](antonior1187.github.io) to the portfolio
+# The [website](antonior1187.github.io) to the portfolio
 
 ## First-time setup
 
